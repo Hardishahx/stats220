@@ -1,11 +1,10 @@
 ![Hello World](https://c.tenor.com/Vlde4572j6QAAAAi/animated-text-greet.gif)
 
-<br/> 
+
   
  # *Welcome to my STATS 220 Website!*
  
- On this space, I will be introducing myself, uploading a meme that I have created and explaining how and why this meme was produced the way it was! :blush:
-  <br/>
+ On this space, I will be introducing myself, uploading a meme that I have created and explaining how and why this meme was produced the way it was! 😊
   
  ## About me
  
