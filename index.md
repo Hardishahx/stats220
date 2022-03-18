@@ -1,6 +1,6 @@
 ![Hello World](https://c.tenor.com/Vlde4572j6QAAAAi/animated-text-greet.gif)
 
-
+<br/>
   
 # Welcome to my STATS 220 Website!
  
