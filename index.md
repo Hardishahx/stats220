@@ -71,7 +71,11 @@ image_write(meme, "final_meme.png")
 
 ```
 
-## Inspiration behind my meme
+## Inspiration behind my meme ☁️
 
-1. 
+1. My main inspiration behind this meme was self experience, there have been many times I thought I handed in a great assignment but the grades did not reflect that 
+2. I love pikachu 
+3. I've been seeing alot of university related memes lately, but this [meme](https://img.universitystudent.org/1/4/3203/me-acting-surprised-when-i-get-a-bad-grade-for-an-assignment-i-did-overnight-meme.jpg) was one that I found funny, therefore I did my own version of it! 
+
+
 
