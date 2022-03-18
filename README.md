@@ -4,8 +4,8 @@
 
 This repo will contain all learning materials relating to **STATS 220!** 😊
 
-*I'll be uploading my assignments on here and practicing my GitHub tips and tricks on here! :woman_technologist:* 
-
+*I'll be uploading my assignments and practicing my new GitHub tips and tricks on here! :woman_technologist:* 
+n
 **If you want to stay updated or learn with me:** 
 
 *  Follow me on GitHub ([Hardishahx](https://github.com/Hardishahx)) 
