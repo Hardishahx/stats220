@@ -2,11 +2,11 @@
 
 
   
- # *Welcome to my STATS 220 Website!*
+# Welcome to my STATS 220 Website!
  
  On this space, I will be introducing myself, uploading a meme that I have created and explaining how and why this meme was produced the way it was! 😊
   
- ## About me
+## About me 
  
 * I'm currently in my 4th year, studying BCom & BSc at [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-science.html) 🧑‍🎓
 * I love playing tennis in my free time! 🎾
