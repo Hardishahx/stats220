@@ -15,3 +15,4 @@ n
 Also feel free to check out my [STATS220 Website](https://hardishahx.github.io/stats220/)
 
 # <img src= "https://www.kindpng.com/picc/m/702-7020316_come-back-soon-gif-come-back-soon-gifs.png" width="250" height="200"> 
+
